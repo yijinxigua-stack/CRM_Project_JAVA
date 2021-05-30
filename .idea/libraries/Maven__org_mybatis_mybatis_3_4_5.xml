@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.mybatis:mybatis:3.4.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../03-CRM项目（有时间的话，可以学习两个项目，没有时间的话，学一个也行，选择任何一个！））/资源/4_CRM项目/resource/maven/mavenRepository/org/mybatis/mybatis/3.4.5/mybatis-3.4.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../03-CRM项目（有时间的话，可以学习两个项目，没有时间的话，学一个也行，选择任何一个！））/资源/4_CRM项目/resource/maven/mavenRepository/org/mybatis/mybatis/3.4.5/mybatis-3.4.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../03-CRM项目（有时间的话，可以学习两个项目，没有时间的话，学一个也行，选择任何一个！））/资源/4_CRM项目/resource/maven/mavenRepository/org/mybatis/mybatis/3.4.5/mybatis-3.4.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

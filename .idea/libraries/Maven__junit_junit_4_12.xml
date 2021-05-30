@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: junit:junit:4.12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../03-CRM项目（有时间的话，可以学习两个项目，没有时间的话，学一个也行，选择任何一个！））/资源/4_CRM项目/resource/maven/mavenRepository/junit/junit/4.12/junit-4.12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../03-CRM项目（有时间的话，可以学习两个项目，没有时间的话，学一个也行，选择任何一个！））/资源/4_CRM项目/resource/maven/mavenRepository/junit/junit/4.12/junit-4.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../03-CRM项目（有时间的话，可以学习两个项目，没有时间的话，学一个也行，选择任何一个！））/资源/4_CRM项目/resource/maven/mavenRepository/junit/junit/4.12/junit-4.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

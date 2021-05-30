@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.glassfish:javax.servlet:3.0-b70">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../03-CRM项目（有时间的话，可以学习两个项目，没有时间的话，学一个也行，选择任何一个！））/资源/4_CRM项目/resource/maven/mavenRepository/org/glassfish/javax.servlet/3.0-b70/javax.servlet-3.0-b70.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../03-CRM项目（有时间的话，可以学习两个项目，没有时间的话，学一个也行，选择任何一个！））/资源/4_CRM项目/resource/maven/mavenRepository/org/glassfish/javax.servlet/3.0-b70/javax.servlet-3.0-b70-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../03-CRM项目（有时间的话，可以学习两个项目，没有时间的话，学一个也行，选择任何一个！））/资源/4_CRM项目/resource/maven/mavenRepository/org/glassfish/javax.servlet/3.0-b70/javax.servlet-3.0-b70-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

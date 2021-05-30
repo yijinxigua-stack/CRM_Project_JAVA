@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: log4j:log4j:1.2.17">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../03-CRM项目（有时间的话，可以学习两个项目，没有时间的话，学一个也行，选择任何一个！））/资源/4_CRM项目/resource/maven/mavenRepository/log4j/log4j/1.2.17/log4j-1.2.17.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../03-CRM项目（有时间的话，可以学习两个项目，没有时间的话，学一个也行，选择任何一个！））/资源/4_CRM项目/resource/maven/mavenRepository/log4j/log4j/1.2.17/log4j-1.2.17-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../03-CRM项目（有时间的话，可以学习两个项目，没有时间的话，学一个也行，选择任何一个！））/资源/4_CRM项目/resource/maven/mavenRepository/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

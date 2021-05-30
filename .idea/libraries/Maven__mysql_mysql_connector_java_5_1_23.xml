@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: mysql:mysql-connector-java:5.1.23">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../03-CRM项目（有时间的话，可以学习两个项目，没有时间的话，学一个也行，选择任何一个！））/资源/4_CRM项目/resource/maven/mavenRepository/mysql/mysql-connector-java/5.1.23/mysql-connector-java-5.1.23.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../03-CRM项目（有时间的话，可以学习两个项目，没有时间的话，学一个也行，选择任何一个！））/资源/4_CRM项目/resource/maven/mavenRepository/mysql/mysql-connector-java/5.1.23/mysql-connector-java-5.1.23-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../03-CRM项目（有时间的话，可以学习两个项目，没有时间的话，学一个也行，选择任何一个！））/资源/4_CRM项目/resource/maven/mavenRepository/mysql/mysql-connector-java/5.1.23/mysql-connector-java-5.1.23-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
